@@ -1,5 +1,5 @@
 # microservice-with-node.js
-![](https://img.shields.io/badge/Node.js-v19.8.1-orange) ![](https://img.shields.io/badge/Typescript-v5.1.3-blue) 
+![](https://img.shields.io/badge/Node.js-v19.8.1-orange) ![](https://img.shields.io/badge/Typescript-v5.1.3-blue) \
 This repository contains the source code and class notes from the course "Microservices with Nodejs and React" taught by Stephen Grider.
 
 
@@ -22,9 +22,3 @@ For both project `blog` and `ticketing`, please run following command line to im
 cd ./microservcie-wtih-node.js/<blog or ticketing>
 skaffold dev
 ```
-
-Provide a way for users to contact you if they have questions or need support related to your project.
-
-## Demo (if applicable)
-
-If your project has a live demo or a video demonstration, provide links or embeds to showcase its functionality.
